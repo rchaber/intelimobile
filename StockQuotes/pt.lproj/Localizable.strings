@@ -1,0 +1,136 @@
+/* 
+ Localizable.strings
+ StockQuotes
+ 
+ Created by Edward Khorkov on 10/3/11.
+ Copyright 2011 Polecat. All rights reserved.
+ */
+
+"OK" = "OK";
+"Error" = "Error";
+"Edit" = "Edit";
+"Done" = "Done";
+"Cancel" = "Cancel";
+"Add" = "Add";
+"Name already exists" = "Name already exists";
+
+"Register" = "Register";
+
+"Quotes" = "Quotes";
+"Account" = "Account";
+"More" = "More";
+
+/* Login screen */
+"Intelitrader" = "Intelitrader";
+
+"Username" = "Username";
+"Password" = "Password";
+"Remember me" = "Remember me";
+"Log In" = "Log In";
+"Settings" = "Settings";
+"Please fill all fields." = "Please fill all fields.";
+"Both passwords must match." = "Both passwords must match.";
+"An email was sent to" = "An email was sent to";
+"with activation link." = "with activation link.";
+
+/* Register screen */
+"To register, please, fill in all fields:" = "To register, please, fill in all fields:";
+"Name" = "Name";
+"Last name" = "Last name";
+"E-mail" = "E-mail";
+"Re-enter" = "Re-enter";
+"Activation link will be send to provided email." = "Activation link will be send to provided email.";
+
+/* Connection settings screen */
+"Server" = "Server";
+"Port" = "Port";
+"Too long port" = "Too long port";
+
+/* List of watchlists screen */
+"Watchlists" = "Watchlists";
+"Click and hold a watchlist to rename it" = "Click and hold a watchlist to rename it";
+"Enter New Watchlist Name" = "Enter New Watchlist Name";
+"Now watching" = "Now watching";
+
+/* Watchlist screen */
+"Symbol" = "Symbol";
+"Last" = "Last";
+"Bid" = "Bid";
+"Ask" = "Ask";
+"High" = "High";
+"Low" = "Low";
+
+"Cannot load" = "Cannot load";
+"Size" = "Size";
+"Loading..." = "Loading...";
+
+/* Adding new symbol screen */
+"name" = "name";
+"New Symbol Name" = "New Symbol Name";
+"Exchange" = "Exchange";
+
+/* Quote detail view screen */
+"Open" = "Open";
+"Prev.Close" = "Prev.Close";
+"Volume" = "Volume";
+"$ Volume" = "$ Volume";
+"min" = "min";
+"Day" = "Day";
+"Mon" = "Mon";
+"Week" = "Week";
+"Yr" = "Yr";
+"Trade" = "Trade";
+"Chart" = "Chart";
+"News" = "News";
+"Options" = "Options";
+
+/* Order editor screen */
+"Order Editor" = "Order Editor";
+"Send Order" = "Send Order";
+"Side" = "Side";
+"Quantity" = "Quantity";
+"Type" = "Type";
+"Limit" = "Limit";
+"Cost of Trade" = "Cost of Trade";
+"+ commission" = "+ commission";
+"TIF" = "TIF";
+"Send" = "Send";
+"Order confirmation" = "Order confirmation";
+
+/* Chart setup */
+"Setup Chart" = "Setup Chart";
+"Charting Setup" = "Charting Setup";
+"Select study" = "Select study";
+"Bar" = "Bar";
+"Candle" = "Candle";
+"Line" = "Line";
+"Area" = "Area";
+"Bars to right" = "Bars to right";
+"Aggregation" = "Aggregation";
+"Intraday" = "Intraday";
+"Daily" = "Daily";
+"Period" = "Period";
+"Interval" = "Interval";
+"Upper Studies" = "Upper Studies";
+"Lower Studies" = "Lower Studies";
+"Reset Chart Settings" = "Reset Chart Settings";
+"Length" = "Length";
+"Price" = "Price";
+"Close" = "Close";
+"Color" = "Color";
+
+/* Account screen */
+"Exit" = "Exit";
+"Account Number" = "Account Number";
+"edit account info" = "edit account info";
+"Edit account" = "Edit account";
+"Cash" = "Cash";
+"Buying Power" = "Buying Power";
+"Portfolio Value" = "Portfolio Value";
+"Cash + Portfolio" = "Cash + Portfolio";
+"Profit / Loss" = "Profit / Loss";
+"Year-to-date Net" = "Year-to-date Net";
+"Year-to-date %" = "Year-to-date %";
+"Since Inception Net" = "Since Inception Net";
+"Since Inception %" = "Since Inception %";
+
